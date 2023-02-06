@@ -1,0 +1,39 @@
+.app {
+  height: 100vh;
+  padding: 30px;
+  background-color: #efecec;
+  color: #5c5757;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+
+.input{
+  margin-bottom: 20px;
+}
+
+.btn{
+  background-color: #62929a !important;
+  border-color: #62929a !important;
+  color: #efecec !important;
+}
+
+.btn:hover{
+  background-color: #537791 !important;
+}
+
+.check{
+  background-color: #fff !important;
+  color: #7dd87d !important;
+}
+
+.remove{
+  background-color: #fff !important;
+  color: red !important;
+}
+
+
